@@ -1,0 +1,475 @@
+{
+    IDENTIFIER<IDENTIFIER, IDENTIFIER<int[]>> VAR_DEF = new IDENTIFIER<>();
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        for (int VAR_DEF = IDENTIFIER + INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+            int VAR_DEF = IDENTIFIER[IDENTIFIER];
+            int VAR_DEF = IDENTIFIER[IDENTIFIER];
+            if (IDENTIFIER > IDENTIFIER) {
+                int VAR_DEF = IDENTIFIER;
+                IDENTIFIER = IDENTIFIER;
+                IDENTIFIER = IDENTIFIER;
+            }
+            int VAR_DEF = IDENTIFIER + IDENTIFIER;
+            int[] VAR_DEF = new int[]{IDENTIFIER, IDENTIFIER, IDENTIFIER, IDENTIFIER};
+            if (!IDENTIFIER.containsKey(IDENTIFIER)) {
+                IDENTIFIER<int[]> VAR_DEF = new IDENTIFIER<>();
+                IDENTIFIER.add(IDENTIFIER);
+                IDENTIFIER.put(IDENTIFIER, IDENTIFIER);
+            } else {
+                IDENTIFIER<int[]> VAR_DEF = IDENTIFIER.get(IDENTIFIER);
+                IDENTIFIER.add(IDENTIFIER);
+            }
+        }
+    }
+    IDENTIFIER<IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        if (IDENTIFIER.contains(IDENTIFIER[IDENTIFIER])) continue;
+        IDENTIFIER.add(IDENTIFIER[IDENTIFIER]);
+        IDENTIFIER<int[]> VAR_DEF = IDENTIFIER.get(-IDENTIFIER[IDENTIFIER]);
+        if (IDENTIFIER != BOT) {
+            IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+            for (int[] VAR_DEF : IDENTIFIER) {
+                if (IDENTIFIER[INT] == IDENTIFIER || IDENTIFIER[INT] == IDENTIFIER) continue;
+                if (IDENTIFIER[IDENTIFIER] > IDENTIFIER[INT]) continue;
+                if (IDENTIFIER.contains(IDENTIFIER[INT])) continue;
+                IDENTIFIER.add(IDENTIFIER[INT]);
+                IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>(INT);
+                IDENTIFIER.add(IDENTIFIER[IDENTIFIER]);
+                IDENTIFIER.add(IDENTIFIER[INT]);
+                IDENTIFIER.add(IDENTIFIER[INT]);
+                IDENTIFIER.add(IDENTIFIER);
+            }
+        }
+    }
+    return IDENTIFIER;
+}
+
+{
+    IDENTIFIER.sort(IDENTIFIER);
+    IDENTIFIER<IDENTIFIER, IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER<IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length - INT; IDENTIFIER++) {
+        int VAR_DEF = IDENTIFIER[IDENTIFIER];
+        if (IDENTIFIER + IDENTIFIER + IDENTIFIER > INT) break;
+        if (IDENTIFIER.containsKey(IDENTIFIER)) continue;
+        IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+        IDENTIFIER.put(IDENTIFIER, IDENTIFIER);
+        for (int VAR_DEF = IDENTIFIER + INT; IDENTIFIER < IDENTIFIER.length - INT; IDENTIFIER++) {
+            int VAR_DEF = IDENTIFIER[IDENTIFIER];
+            if (IDENTIFIER + IDENTIFIER + IDENTIFIER > INT) break;
+            if (IDENTIFIER.contains(IDENTIFIER)) continue;
+            IDENTIFIER.add(IDENTIFIER);
+            int VAR_DEF = IDENTIFIER.binarySearch(IDENTIFIER, IDENTIFIER + INT, IDENTIFIER.length, -(IDENTIFIER + IDENTIFIER));
+            if (IDENTIFIER >= IDENTIFIER + INT) {
+                IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+                IDENTIFIER.add(IDENTIFIER);
+                IDENTIFIER.add(IDENTIFIER);
+                IDENTIFIER.add(IDENTIFIER[IDENTIFIER]);
+                IDENTIFIER.add(IDENTIFIER);
+            }
+        }
+    }
+    return IDENTIFIER;
+}
+
+{
+    int VAR_DEF = IDENTIFIER.length;
+    if (IDENTIFIER <= INT) return;
+    int VAR_DEF = IDENTIFIER[INT].length;
+    boolean VAR_DEF = BOOLEAN;
+    boolean VAR_DEF = BOOLEAN;
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+        if (IDENTIFIER[INT][IDENTIFIER] == INT) {
+            IDENTIFIER = BOOLEAN;
+            break;
+        }
+    }
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+        if (IDENTIFIER[IDENTIFIER][INT] == INT) {
+            IDENTIFIER = BOOLEAN;
+            break;
+        }
+    }
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+        for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+            if (IDENTIFIER[IDENTIFIER][IDENTIFIER] == INT) {
+                IDENTIFIER[INT][IDENTIFIER] = INT;
+                IDENTIFIER[IDENTIFIER][INT] = INT;
+            }
+        }
+    }
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+        if (IDENTIFIER[IDENTIFIER][INT] == INT) {
+            for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+                IDENTIFIER[IDENTIFIER][IDENTIFIER] = INT;
+            }
+        }
+    }
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+        if (IDENTIFIER[INT][IDENTIFIER] == INT) {
+            for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+                IDENTIFIER[IDENTIFIER][IDENTIFIER] = INT;
+            }
+        }
+    }
+    if (IDENTIFIER) {
+        for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+            IDENTIFIER[INT][IDENTIFIER] = INT;
+        }
+    }
+    if (IDENTIFIER) {
+        for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER; IDENTIFIER++) {
+            IDENTIFIER[IDENTIFIER][INT] = INT;
+        }
+    }
+}
+
+{
+    IDENTIFIER<IDENTIFIER, IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    for (IDENTIFIER VAR_DEF : IDENTIFIER) {
+        char[] VAR_DEF = IDENTIFIER.toCharArray();
+        IDENTIFIER.sort(IDENTIFIER);
+        IDENTIFIER.computeIfAbsent(new IDENTIFIER(IDENTIFIER), (VAR_DEF)->new IDENTIFIER<>()).add(IDENTIFIER);
+    }
+    return new IDENTIFIER<>(IDENTIFIER.values());
+}
+
+{
+    IDENTIFIER<IDENTIFIER, IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    int[] VAR_DEF = new int[INT];
+    IDENTIFIER VAR_DEF = new IDENTIFIER(INT);
+    for (IDENTIFIER VAR_DEF : IDENTIFIER) {
+        IDENTIFIER.fill(IDENTIFIER, INT);
+        char[] VAR_DEF = IDENTIFIER.toCharArray();
+        for (char VAR_DEF : IDENTIFIER) {
+            ++IDENTIFIER[IDENTIFIER - CHAR];
+        }
+        IDENTIFIER.delete(INT, IDENTIFIER.length());
+        for (int VAR_DEF = INT; IDENTIFIER < INT; IDENTIFIER++) {
+            if (IDENTIFIER[IDENTIFIER] > INT) {
+                IDENTIFIER.append((char)(CHAR + IDENTIFIER));
+                IDENTIFIER.append(IDENTIFIER[IDENTIFIER]);
+            }
+        }
+        IDENTIFIER.computeIfAbsent(IDENTIFIER.toString(), (VAR_DEF)->new IDENTIFIER<>()).add(IDENTIFIER);
+    }
+    return new IDENTIFIER<>(IDENTIFIER.values());
+}
+
+{
+    char[] VAR_DEF = IDENTIFIER.toCharArray();
+    IDENTIFIER<IDENTIFIER, IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    int VAR_DEF = INT;
+    int VAR_DEF = INT;
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        char VAR_DEF = IDENTIFIER[IDENTIFIER];
+        if (IDENTIFIER.containsKey(IDENTIFIER) && IDENTIFIER <= IDENTIFIER.get(IDENTIFIER)) {
+            if (IDENTIFIER < IDENTIFIER - IDENTIFIER) {
+                IDENTIFIER = IDENTIFIER - IDENTIFIER;
+            }
+            IDENTIFIER = IDENTIFIER.get(IDENTIFIER) + INT;
+        }
+        IDENTIFIER.put(IDENTIFIER, IDENTIFIER);
+    }
+    if (IDENTIFIER < IDENTIFIER.length - IDENTIFIER) {
+        IDENTIFIER = IDENTIFIER.length - IDENTIFIER;
+    }
+    return IDENTIFIER;
+}
+
+{
+    char[] VAR_DEF = IDENTIFIER.toCharArray();
+    int VAR_DEF = INT;
+    int VAR_DEF = INT;
+    int VAR_DEF = INT;
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        if (IDENTIFIER.length - IDENTIFIER <= IDENTIFIER) break;
+        for (int VAR_DEF = IDENTIFIER.length; IDENTIFIER > IDENTIFIER; IDENTIFIER--) {
+            if (IDENTIFIER - IDENTIFIER <= IDENTIFIER) break;
+            boolean VAR_DEF = BOOLEAN;
+            int VAR_DEF = IDENTIFIER;
+            int VAR_DEF = IDENTIFIER - INT;
+            while (IDENTIFIER < IDENTIFIER) {
+                if (IDENTIFIER[IDENTIFIER++] == IDENTIFIER[IDENTIFIER--]) continue;
+                IDENTIFIER = BOOLEAN;
+                break;
+            }
+            if (IDENTIFIER) {
+                IDENTIFIER = IDENTIFIER;
+                IDENTIFIER = IDENTIFIER;
+                IDENTIFIER = IDENTIFIER - IDENTIFIER;
+                break;
+            }
+        }
+    }
+    return new IDENTIFIER(IDENTIFIER, IDENTIFIER, IDENTIFIER);
+}
+
+{
+    if (IDENTIFIER.length < INT) return BOOLEAN;
+    int VAR_DEF = IDENTIFIER[INT];
+    int VAR_DEF = INT;
+    for (; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        if (IDENTIFIER[IDENTIFIER] > IDENTIFIER) break;
+        IDENTIFIER = IDENTIFIER[IDENTIFIER];
+    }
+    if (IDENTIFIER == IDENTIFIER.length) return BOOLEAN;
+    int VAR_DEF = IDENTIFIER[IDENTIFIER++];
+    int VAR_DEF = IDENTIFIER;
+    while (IDENTIFIER < IDENTIFIER.length) {
+        for (; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+            if (IDENTIFIER[IDENTIFIER] > IDENTIFIER) break;
+            IDENTIFIER = IDENTIFIER[IDENTIFIER];
+            if (IDENTIFIER > IDENTIFIER) {
+                IDENTIFIER = IDENTIFIER;
+            }
+        }
+        if (IDENTIFIER == IDENTIFIER.length) return BOOLEAN;
+        int VAR_DEF = IDENTIFIER[IDENTIFIER++];
+        if (IDENTIFIER > IDENTIFIER) return BOOLEAN;
+        IDENTIFIER = IDENTIFIER;
+        IDENTIFIER = IDENTIFIER;
+        IDENTIFIER = IDENTIFIER;
+    }
+    return BOOLEAN;
+}
+
+{
+    IDENTIFIER = IDENTIFIER;
+}
+
+{
+    IDENTIFIER = IDENTIFIER.trim();
+    IDENTIFIER = IDENTIFIER.substring(INT, IDENTIFIER.length() - INT);
+    if (IDENTIFIER.length() == INT) {
+        return new int[INT];
+    }
+    IDENTIFIER[] VAR_DEF = IDENTIFIER.split(CLASS);
+    int[] VAR_DEF = new int[IDENTIFIER.length];
+    for (int VAR_DEF = INT; IDENTIFIER < IDENTIFIER.length; IDENTIFIER++) {
+        IDENTIFIER VAR_DEF = IDENTIFIER[IDENTIFIER].trim();
+        IDENTIFIER[IDENTIFIER] = IDENTIFIER.parseInt(IDENTIFIER);
+    }
+    return IDENTIFIER;
+}
+
+{
+    int[] VAR_DEF = IDENTIFIER(IDENTIFIER);
+    IDENTIFIER VAR_DEF = new IDENTIFIER(INT);
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    for (int VAR_DEF : IDENTIFIER) {
+        IDENTIFIER.next = new IDENTIFIER(IDENTIFIER);
+        IDENTIFIER = IDENTIFIER.next;
+    }
+    return IDENTIFIER.next;
+}
+
+{
+    if (IDENTIFIER == BOT) {
+        return CLASS;
+    }
+    IDENTIFIER VAR_DEF = CLASS;
+    while (IDENTIFIER != BOT) {
+        IDENTIFIER += IDENTIFIER.toString(IDENTIFIER.val) + CLASS;
+        IDENTIFIER = IDENTIFIER.next;
+    }
+    return CLASS + IDENTIFIER.substring(INT, IDENTIFIER.length() - INT) + CLASS;
+}
+
+{
+    int VAR_DEF = INT;
+    IDENTIFIER VAR_DEF = BOT;
+    IDENTIFIER VAR_DEF = BOT;
+    while (IDENTIFIER != BOT || IDENTIFIER != BOT) {
+        if (IDENTIFIER != BOT) {
+            IDENTIFIER += IDENTIFIER.val;
+            IDENTIFIER = IDENTIFIER.next;
+        }
+        if (IDENTIFIER != BOT) {
+            IDENTIFIER += IDENTIFIER.val;
+            IDENTIFIER = IDENTIFIER.next;
+        }
+        IDENTIFIER VAR_DEF = new IDENTIFIER(IDENTIFIER % INT);
+        IDENTIFIER = (IDENTIFIER - IDENTIFIER.val) / INT;
+        if (IDENTIFIER == BOT) {
+            IDENTIFIER = IDENTIFIER;
+            IDENTIFIER = IDENTIFIER;
+        } else {
+            IDENTIFIER.next = IDENTIFIER;
+            IDENTIFIER = IDENTIFIER;
+        }
+    }
+    if (IDENTIFIER > INT) {
+        IDENTIFIER VAR_DEF = new IDENTIFIER(IDENTIFIER);
+        IDENTIFIER.next = IDENTIFIER;
+    }
+    return IDENTIFIER;
+}
+
+{
+    long VAR_DEF = INT;
+    long VAR_DEF = INT;
+    while (IDENTIFIER != BOT) {
+        IDENTIFIER += IDENTIFIER.val * IDENTIFIER;
+        IDENTIFIER = IDENTIFIER * INT;
+        IDENTIFIER = IDENTIFIER.next;
+    }
+    IDENTIFIER = INT;
+    long VAR_DEF = INT;
+    while (IDENTIFIER != BOT) {
+        IDENTIFIER += IDENTIFIER.val * IDENTIFIER;
+        IDENTIFIER = IDENTIFIER * INT;
+        IDENTIFIER = IDENTIFIER.next;
+    }
+    long VAR_DEF = IDENTIFIER + IDENTIFIER;
+    IDENTIFIER VAR_DEF = new IDENTIFIER((int)(IDENTIFIER % INT));
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    IDENTIFIER = IDENTIFIER / INT;
+    while (IDENTIFIER != INT) {
+        IDENTIFIER.next = new IDENTIFIER((int)(IDENTIFIER % INT));
+        IDENTIFIER = IDENTIFIER.next;
+        IDENTIFIER = IDENTIFIER / INT;
+    }
+    return IDENTIFIER;
+}
+
+{
+    if (IDENTIFIER == BOT) return BOT;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    IDENTIFIER VAR_DEF = IDENTIFIER.next;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    IDENTIFIER = IDENTIFIER == BOT ? BOT : IDENTIFIER.next;
+    int VAR_DEF = INT;
+    while (IDENTIFIER != BOT) {
+        if (IDENTIFIER % INT == INT) {
+            IDENTIFIER.next = IDENTIFIER;
+            IDENTIFIER = IDENTIFIER;
+        } else {
+            IDENTIFIER.next = IDENTIFIER;
+            IDENTIFIER = IDENTIFIER;
+        }
+        IDENTIFIER = IDENTIFIER.next;
+        ++IDENTIFIER;
+    }
+    IDENTIFIER.next = IDENTIFIER;
+    if (IDENTIFIER != BOT) IDENTIFIER.next = BOT;
+    return IDENTIFIER;
+}
+
+{
+    int VAR_DEF = INT;
+    int VAR_DEF = INT;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    while (IDENTIFIER != BOT) {
+        ++IDENTIFIER;
+        IDENTIFIER = IDENTIFIER.next;
+        if (IDENTIFIER != BOT) IDENTIFIER = IDENTIFIER;
+    }
+    IDENTIFIER = IDENTIFIER;
+    IDENTIFIER VAR_DEF = IDENTIFIER;
+    while (IDENTIFIER != BOT) {
+        ++IDENTIFIER;
+        IDENTIFIER = IDENTIFIER.next;
+        if (IDENTIFIER != BOT) IDENTIFIER = IDENTIFIER;
+    }
+    if (IDENTIFIER != IDENTIFIER) return BOT;
+    int VAR_DEF = IDENTIFIER - IDENTIFIER;
+    while (IDENTIFIER < INT) {
+        IDENTIFIER = IDENTIFIER.next;
+        ++IDENTIFIER;
+    }
+    while (IDENTIFIER > INT) {
+        IDENTIFIER = IDENTIFIER.next;
+        --IDENTIFIER;
+    }
+    while (IDENTIFIER != IDENTIFIER) {
+        IDENTIFIER = IDENTIFIER.next;
+        IDENTIFIER = IDENTIFIER.next;
+    }
+    return IDENTIFIER;
+}
+
+{
+    IDENTIFIER = IDENTIFIER;
+}
+
+{
+    if (IDENTIFIER == BOT) return IDENTIFIER.emptyList();
+    IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER.add(IDENTIFIER);
+    while (!IDENTIFIER.isEmpty()) {
+        IDENTIFIER VAR_DEF = IDENTIFIER.getFirst();
+        if (IDENTIFIER.left != BOT) {
+            IDENTIFIER.addFirst(IDENTIFIER.left);
+            IDENTIFIER.left = BOT;
+        } else {
+            IDENTIFIER.add(IDENTIFIER.val);
+            IDENTIFIER.removeFirst();
+            if (IDENTIFIER.right != BOT) {
+                IDENTIFIER.addFirst(IDENTIFIER.right);
+            }
+        }
+    }
+    return IDENTIFIER;
+}
+
+{
+    IDENTIFIER<IDENTIFIER<IDENTIFIER>> VAR_DEF = new IDENTIFIER<>();
+    if (IDENTIFIER == BOT) return IDENTIFIER;
+    IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>();
+    IDENTIFIER.add(IDENTIFIER);
+    int VAR_DEF = INT;
+    while (!IDENTIFIER.isEmpty()) {
+        IDENTIFIER<IDENTIFIER> VAR_DEF = new IDENTIFIER<>(IDENTIFIER.size());
+        while (!IDENTIFIER.isEmpty()) {
+            IDENTIFIER VAR_DEF = IDENTIFIER.removeFirst();
+            IDENTIFIER.add(IDENTIFIER.val);
+            if (IDENTIFIER % INT == INT) {
+                if (IDENTIFIER.right != BOT) IDENTIFIER.addFirst(IDENTIFIER.right);
+                if (IDENTIFIER.left != BOT) IDENTIFIER.addFirst(IDENTIFIER.left);
+            } else {
+                if (IDENTIFIER.left != BOT) IDENTIFIER.addFirst(IDENTIFIER.left);
+                if (IDENTIFIER.right != BOT) IDENTIFIER.addFirst(IDENTIFIER.right);
+            }
+        }
+        IDENTIFIER.add(IDENTIFIER);
+        IDENTIFIER++;
+        IDENTIFIER<IDENTIFIER> VAR_DEF = IDENTIFIER;
+        IDENTIFIER = IDENTIFIER;
+        IDENTIFIER = IDENTIFIER;
+    }
+    return IDENTIFIER;
+}
+
+{
+    return IDENTIFIER(IDENTIFIER, IDENTIFIER, INT, INT, IDENTIFIER.length);
+}
+
+{
+    if (IDENTIFIER <= INT) return BOT;
+    IDENTIFIER VAR_DEF = new IDENTIFIER(IDENTIFIER[IDENTIFIER]);
+    if (IDENTIFIER == INT) return IDENTIFIER;
+    int VAR_DEF = IDENTIFIER - INT;
+    int VAR_DEF = IDENTIFIER.val;
+    while (IDENTIFIER[++IDENTIFIER] != IDENTIFIER) ;
+    int VAR_DEF = IDENTIFIER - IDENTIFIER;
+    IDENTIFIER.left = IDENTIFIER(IDENTIFIER, IDENTIFIER, IDENTIFIER + INT, IDENTIFIER, IDENTIFIER);
+    IDENTIFIER.right = IDENTIFIER(IDENTIFIER, IDENTIFIER, IDENTIFIER + INT + IDENTIFIER, IDENTIFIER + INT, IDENTIFIER - IDENTIFIER - INT);
+    return IDENTIFIER;
+}
+
+{
+    IDENTIFIER = IDENTIFIER;
+}
+
+{
+}
+
+{
+    IDENTIFIER.out.println(IDENTIFIER(IDENTIFIER(IDENTIFIER(CLASS), IDENTIFIER(CLASS))));
+}
